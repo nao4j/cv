@@ -6,6 +6,8 @@
 |*Разработчик программного обеспечения* ^|yegor.pilipenko@gmail.com >|Москва, Россия
 |===
 
+image::images/photo.jpg["Пилипенко Егор",320,role=thumb]
+
 == Ключевые навыки
 
 Java, JUnit, Spring, Hibernate, Реляционные базы данных, Очереди сообщений, Maven, Git
