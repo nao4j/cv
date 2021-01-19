@@ -100,99 +100,68 @@ Java, JUnit, Spring, Hibernate, Реляционные базы данных, О
 
 == Проекты
 
-[cols="4,2,3",frame=none,grid=none]
+[cols="3,2,4",frame=none,grid=none]
 |===
 3+|*Сервис обмена большими файлами*
 
 |NDA (Финтех) ^|2020 >|Электронный документооборот
+
+3+|Java 8, Spring Boot 2, Oracle, Kafka, Nginx
 |===
 
-* Java 8
-* Spring Boot 2
-* Oracle
-* Kafka
-* Nginx
-
-[cols="4,2,3",frame=none,grid=none]
+[cols="3,2,4",frame=none,grid=none]
 |===
 3+|*Адаптер для обеспечения асинхронного взаимодействия с Accellion*
 
 |NDA (Финтех) ^|2019 >|Электронный документооборот
+
+3+|Java 11, Spring Boot 2, MySQL, REST, Docker
 |===
 
-* Java 11
-* Spring Boot 2
-* MySQL
-* REST
-* Docker
-
-[cols="4,2,3",frame=none,grid=none]
+[cols="3,2,4",frame=none,grid=none]
 |===
 3+|*Host-to-Host решение*
 
 |NDA (Финтех) ^|2018 - 2021 >|Электронный документооборот
+
+3+|Java 8, Spring Boot 1/2, PostgreSQL, IBM MQ, Wildfly, ES & CQRS монолит, REST
 |===
 
-* Java 8
-* Spring Boot 1/2
-* PostgreSQL
-* IBM MQ
-* Wildfly
-* ES & CQRS монолит
-* REST
-
-[cols="4,2,3",frame=none,grid=none]
+[cols="3,2,4",frame=none,grid=none]
 |===
 3+|*Сервер интеграции с Национальным Расчетным Депозитарием*
 
 |NDA (Финтех) ^|2016 - 2018 >|Электронный документооборот
+
+3+|Java 6, Spring 2, Wicket, XML, XSLT, Hibernate, MS SQL Server, Oracle
 |===
 
-* Java 6
-* Spring 2
-* Wicket
-* XML
-* XSLT
-* Hibernate
-* MS SQL Server
-* Oracle
-
-[cols="4,2,3",frame=none,grid=none]
+[cols="3,2,4",frame=none,grid=none]
 |===
 3+|*Консольное приложение для автоматизации экспорта данных на госпортал*
 
 |NDA (Энергетика) ^|2015 >|Интеграция
+
+3+|C#, КриптоПРО, XML
 |===
 
-* C#
-* КриптоПРО
-* XML
-
-[cols="4,2,3",frame=none,grid=none]
+[cols="3,2,4",frame=none,grid=none]
 |===
 3+|*Desktop приложение для конфигурирования Oozy*
 
 |АО "Эй Ти Консалтинг" ^|2015 >|Инструменты для разработчиков
+
+3+|Java 8, JavaFX, JAXB, TestFX
 |===
 
-* Java 8
-* JavaFX
-* JAXB
-* TestFX
-
-[cols="4,2,3",frame=none,grid=none]
+[cols="3,2,4",frame=none,grid=none]
 |===
 3+|*Хранилище больших данных*
 
 |ПАО "Вымпелком" ^|2014 - 2016 >|Обработка больших данных
-|===
 
-* Apache Hadoop
-* MRUnit
-* Java 7
-* Oozy
-* Hive
-* Pig
+3+|Apache Hadoop, MRUnit, Java 7, Oozyl, Hive, Pig
+|===
 
 == Образование
 
@@ -239,5 +208,5 @@ Java, JUnit, Spring, Hibernate, Реляционные базы данных, О
 
 == Ссылки
 
-* https://www.linkedin.com/in/epilipenko[LinkedIn]
-* https://github.com/nao4j[GitHub]
+* https://www.linkedin.com/in/epilipenko[LinkedIn] /epilipenko
+* https://github.com/nao4j[GitHub] /nao4j
