@@ -160,5 +160,5 @@ Java, JUnit, Spring, Hibernate, RDBMS, MQ, Maven, Git, Работа в кома�
 == Ссылки
 
 * https://t.me/nao4j[Telegram] @nao4j
-* https://www.linkedin.com/in/epilipenko[LinkedIn] /epilipenko
+* https://www.linkedin.com/in/nao4j[LinkedIn] /nao4j
 * https://github.com/nao4j[GitHub] /nao4j
