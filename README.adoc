@@ -10,9 +10,20 @@ https://github.com/nao4j/cv/raw/master/Пилипенко%20Егор.pdf[Ска�
 
 == Ключевые навыки
 
-Java, JUnit, Spring, Hibernate, RDBMS, MQ, Maven, Git, Работа в команде
+Java, Kotlin, JUnit, Spring, Hibernate, RDBMS, MQ, Maven, Git, Работа в команде
 
-== Опыт (5+ лет)
+== Опыт (6+ лет)
+
+[cols="3,2,4",frame=none,grid=none]
+|===
+2+|*API Оркестратор* >|АО Райффайзенбанк
+
+|АО Райффайзенбанк ^|2021 >|Электронный документооборот
+
+3+|Kotlin, Spring Boot 2, Kafka, RabbitMQ, PostgreSQL, Redis, Gravitee, Ansible, Docker
+|===
+
+* TBD
 
 [cols="3,2,4",frame=none,grid=none]
 |===
@@ -117,6 +128,13 @@ Java, JUnit, Spring, Hibernate, RDBMS, MQ, Maven, Git, Работа в кома�
 |===
 
 == Дополнительное образование
+
+[cols="1,1",frame=none,grid=none]
+|===
+2+|https://otus.ru/certificate/550778b70f884a53873199ad8f89c82f[*Microservice Architecture*]
+
+|OTUS |2021
+|===
 
 [cols="1,1",frame=none,grid=none]
 |===
