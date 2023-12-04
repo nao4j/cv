@@ -138,6 +138,13 @@ Java, Kotlin, JUnit, Spring, Hibernate, RDBMS, MQ, Maven, Git, Работа в �
 
 [cols="1,1",frame=none,grid=none]
 |===
+2+|https://otus.ru/certificate/6a1f601f959b4b98afde1e07061b57da[*Kotlin Backend Developer. Professional*]
+
+|OTUS |2023
+|===
+
+[cols="1,1",frame=none,grid=none]
+|===
 2+|https://otus.ru/certificate/550778b70f884a53873199ad8f89c82f[*Microservice Architecture*]
 
 |OTUS |2021
